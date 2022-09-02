@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//London Web Performance//NONSGML v1.0//EN
+X-WR-CALNAME:London Web Performance
+X-ORIGINAL-URL:https://ldnwebperf.org
+X-WR-CALDESC:Events by London Web Performance
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:http%3A%2F%2Fldnwebperf.org%2F%3Fpost_type%3Dlwp_event%26%23038%3Bp%3D
+ 1034
+DTSTAMP:20210209T183000Z
+DTSTART:20210209T183000Z
+DTEND:20210209T210000Z
+ORGANIZER:London Web Performance
+SUMMARY:February &#8211; Waterfalls and Bundles…
+DESCRIPTION:https://ldnwebperf.org/events/february-waterfalls-and-bundles/
+URL;VALUE=URI:https://ldnwebperf.org/events/february-waterfalls-and-bundle
+ s/
+END:VEVENT
+BEGIN:VEVENT
+UID:http%3A%2F%2Fldnwebperf.org%2F%3Fpost_type%3Dlwp_event%26%23038%3Bp%3D
+ 1025
+DTSTAMP:20201208T183000Z
+DTSTART:20201208T183000Z
+DTEND:20201208T203000Z
+ORGANIZER:London Web Performance
+SUMMARY:Yo Ho Ho! &#8216;Tis the season for some RUM
+DESCRIPTION:https://ldnwebperf.org/events/yo-ho-ho-tis-the-season-for-some
+ -rum/
+URL;VALUE=URI:https://ldnwebperf.org/events/yo-ho-ho-tis-the-season-for-so
+ me-rum/
+END:VEVENT
+BEGIN:VEVENT
+UID:http%3A%2F%2Fldnwebperf.org%2F%3Fpost_type%3Dlwp_event%26%23038%3Bp%3D
+ 1021
+DTSTAMP:20201110T183000Z
+DTSTART:20201110T183000Z
+DTEND:20201110T203000Z
+ORGANIZER:London Web Performance
+SUMMARY:Search Performance beyond Ranking, and Designing Applications at
+ the Edge
+DESCRIPTION:https://ldnwebperf.org/events/november-search-performance-beyo
+ nd-ranking-and-designing-applications-at-the-edge/
+URL;VALUE=URI:https://ldnwebperf.org/events/november-search-performance-be
+ yond-ranking-and-designing-applications-at-the-edge/
+END:VEVENT
+BEGIN:VEVENT
+UID:http%3A%2F%2Fldnwebperf.org%2F%3Fpost_type%3Dlwp_event%26%23038%3Bp%3D
+ 1006
+DTSTAMP:20200714T173000Z
+DTSTART:20200714T173000Z
+DTEND:20200714T190000Z
+ORGANIZER:London Web Performance
+SUMMARY:LWP July: Measurement and observability
+DESCRIPTION:https://ldnwebperf.org/events/lwp-july-measurement-and-observa
+ bility/
+URL;VALUE=URI:https://ldnwebperf.org/events/lwp-july-measurement-and-obser
+ vability/
+END:VEVENT
+BEGIN:VEVENT
+UID:http%3A%2F%2Fldnwebperf.org%2F%3Fpost_type%3Dlwp_event%26%23038%3Bp%3D
+ 982
+DTSTAMP:20200609T173000Z
+DTSTART:20200609T173000Z
+DTEND:20200609T200000Z
+ORGANIZER:London Web Performance
+SUMMARY:LWP June: Coronavirus surge
+DESCRIPTION:https://ldnwebperf.org/events/lwp-june-coronavirus-surge/
+URL;VALUE=URI:https://ldnwebperf.org/events/lwp-june-coronavirus-surge/
+END:VEVENT
+BEGIN:VEVENT
+UID:http%3A%2F%2Fldnwebperf.org%2F%3Fpost_type%3Dlwp_event%26%23038%3Bp%3D
+ 968
+DTSTAMP:20200414T173000Z
+DTSTART:20200414T173000Z
+DTEND:20200414T200000Z
+ORGANIZER:London Web Performance
+SUMMARY:LWP April: Migrations
+DESCRIPTION:https://ldnwebperf.org/events/lwp-april-migrations-remote-atte
+ ndance/
+URL;VALUE=URI:https://ldnwebperf.org/events/lwp-april-migrations-remote-at
+ tendance/
+END:VEVENT
+BEGIN:VEVENT
+UID:http%3A%2F%2Fldnwebperf.org%2F%3Fpost_type%3Dlwp_event%26%23038%3Bp%3D
+ 950
+DTSTAMP:20200211T183000Z
+DTSTART:20200211T183000Z
+DTEND:20200211T210000Z
+ORGANIZER:London Web Performance
+SUMMARY:LWP February: What&#8217;s new in HTTP
+DESCRIPTION:https://ldnwebperf.org/events/lwp-february-whats-new-in-http/
+URL;VALUE=URI:https://ldnwebperf.org/events/lwp-february-whats-new-in-http/
+END:VEVENT
+BEGIN:VEVENT
+UID:http%3A%2F%2Fldnwebperf.org%2F%3Fpost_type%3Dlwp_event%26%23038%3Bp%3D
+ 926
+DTSTAMP:20200114T183000Z
+DTSTART:20200114T183000Z
+DTEND:20200114T210000Z
+ORGANIZER:London Web Performance
+SUMMARY:LWP January: new year, new framework?
+DESCRIPTION:https://ldnwebperf.org/events/lwp-january-new-year-new-framewo
+ rk/
+URL;VALUE=URI:https://ldnwebperf.org/events/lwp-january-new-year-new-frame
+ work/
+END:VEVENT
+END:VCALENDAR
